@@ -1,0 +1,3 @@
+[submodule "submodule-test-child-01"]
+	path = submodule-test-child-01
+	url = https://github.com/satoshi-nakajima-uhuru/submodule-test-child-01.git
